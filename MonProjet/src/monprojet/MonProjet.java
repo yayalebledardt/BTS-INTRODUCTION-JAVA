@@ -56,8 +56,19 @@ public class MonProjet {
             
         }
        
-        
-        
+        // exercice 4
+        /*
+         1)faux
+         2)vraie              
+         3)faux
+         4)vraie                
+         5)faux
+         6)vraie
+        */ 
+              
+                 
+         
+         
         
        
         
