@@ -44,6 +44,20 @@ public class MonProjet {
         
         System.out.println(nomComplet + " est né en " + dateDeNaissance + " il a donc " + age);
         
+        // exercice 3
+        
+        int a = 8;
+        int b = 2;
+        
+        if(a==b){
+            System.out.println(a+ " = " +b);
+        }else{
+            System.out.println("a et b sont différents");
+            
+        }
+       
+        
+        
         
        
         
