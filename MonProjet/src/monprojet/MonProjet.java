@@ -82,8 +82,12 @@ public class MonProjet {
         
          // exercice 6
          
+        for (int i=0; i < 11; i++){
+            System.out.println(i);
+        }
          
          
+        
          
          
          
