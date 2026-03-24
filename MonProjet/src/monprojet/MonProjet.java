@@ -26,6 +26,26 @@ public class MonProjet {
         boolean vraieFaux = true;
         String chaineCaractere = "Bonjour";
         
+        System.out.println(caractere);
+        System.out.println(entier);
+        System.out.println(entierlong);
+        System.out.println(nombreAvirgule);
+        System.out.println(vraieFaux);
+        System.out.println(chaineCaractere);
+        
+        // exercice 2
+        String nom = "Dupont";
+        String prenom = "Pierre";
+        int dateDeNaissance = 2002;
+        
+        int age = 2026-2002;
+        
+        String nomComplet = prenom +" "+ nom;
+        
+        System.out.println(nomComplet + " est né en " + dateDeNaissance + " il a donc " + age);
+        
+        
+       
         
     }
     
