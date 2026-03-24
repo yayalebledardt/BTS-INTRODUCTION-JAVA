@@ -65,6 +65,41 @@ public class MonProjet {
          5)faux
          6)vraie
         */ 
+        
+        // exercice 5
+        
+         a = 2;
+         b = 8;
+        int c = 4;
+        
+        if (a == b && b == c){
+            System.out.println("les trois variable sont egales");
+        }else{
+            System.out.println("les trois variable ne sont pas identiques");
+        }
+        
+        
+        
+         // exercice 6
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+        
+        
+        
+     
               
                  
          
