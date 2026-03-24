@@ -15,10 +15,18 @@ public class MonProjet {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        // 
         System.out.println("Hello World");    
         System.out.println("monprojet.MonProjet.main()");
-              
+        // exercice 1
+        char caractere = 'a';
+        int entier = 25;
+        long entierlong = 809999;
+        float nombreAvirgule = 5.7F;
+        boolean vraieFaux = true;
+        String chaineCaractere = "Bonjour";
+        
+        
     }
     
 }
