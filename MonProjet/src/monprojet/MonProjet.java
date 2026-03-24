@@ -86,7 +86,14 @@ public class MonProjet {
             System.out.println(i);
         }
          
+         // exercice 7
          
+         int i=0;
+         while(i<11){
+             System.out.println(i);
+             i++;
+             
+         }
         
          
          
